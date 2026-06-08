@@ -133,7 +133,7 @@ The dataset contains information such as:
 
 ## 📸 Dashboard Preview
 
-<img width="100%" alt="Starbucks Dashboard" src="Dashboard.png">
+<img Snapshot of Dashboard.png>
 
 ---
 
