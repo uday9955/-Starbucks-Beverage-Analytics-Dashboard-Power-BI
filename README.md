@@ -133,7 +133,7 @@ The dataset contains information such as:
 
 ## 📸 Dashboard Preview
 
-https://github.com/uday9955/Power-Bi-projects-/blob/main/Snapshot%20of%20Dashboard.png
+<img src="Images/Dashboard.png" width="1000">
 ---
 
 ## 👨‍💻 Author
